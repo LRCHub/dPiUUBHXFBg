@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Who's fault?",
+  "base_artist": "DEXCORE",
+  "createdAt": "2026-03-29T12:13:39.205277Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Who's fault?",
+      "artist": "DEXCORE",
+      "has_synced": false,
+      "path": "select/01_Who's_fault_DEXCORE.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "who's fault is it anyway?",
+      "artist": "Nova",
+      "has_synced": false,
+      "path": "select/02_who's_fault_is_it_anyway_Nova.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Who's fault?",
+      "artist": "DEXCORE",
+      "has_synced": false,
+      "path": "select/pl_01_Who's_fault_DEXCORE.txt"
+    }
+  ]
+}
